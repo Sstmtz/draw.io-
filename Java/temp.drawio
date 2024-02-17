@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-02-16T12:48:21.545Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="hW7ecaxCbt09mwIxYftg" version="23.1.1" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-17T02:09:50.859Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="_TLR8eIWdXJ3dkvWhDU1" version="23.1.5" type="github" pages="3">
   <diagram name="第 1 页" id="JcHV4UioXyeyqWVosAlf">
     <mxGraphModel dx="2291" dy="732" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="1">
       <root>
@@ -225,100 +225,100 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="-Ex6V4VzKUpp66V6dFCf-5" value="准备安装介质&lt;br&gt;(使用U盘)" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-Ex6V4VzKUpp66V6dFCf-5" value="准备安装介质&lt;br&gt;(使用U盘)" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="170" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Ex6V4VzKUpp66V6dFCf-6" value="BIOS启动和UEFI启动" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-Ex6V4VzKUpp66V6dFCf-6" value="BIOS启动和UEFI启动" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="350" y="210" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Ex6V4VzKUpp66V6dFCf-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Ex6V4VzKUpp66V6dFCf-7" target="-Ex6V4VzKUpp66V6dFCf-8">
+        <mxCell id="-Ex6V4VzKUpp66V6dFCf-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-Ex6V4VzKUpp66V6dFCf-7" target="-Ex6V4VzKUpp66V6dFCf-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Ex6V4VzKUpp66V6dFCf-7" value="开机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-Ex6V4VzKUpp66V6dFCf-7" value="开机" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Ex6V4VzKUpp66V6dFCf-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Ex6V4VzKUpp66V6dFCf-8" target="-Ex6V4VzKUpp66V6dFCf-10">
+        <mxCell id="-Ex6V4VzKUpp66V6dFCf-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-Ex6V4VzKUpp66V6dFCf-8" target="-Ex6V4VzKUpp66V6dFCf-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Ex6V4VzKUpp66V6dFCf-8" value="BIOS初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-Ex6V4VzKUpp66V6dFCf-8" value="BIOS初始化" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Ex6V4VzKUpp66V6dFCf-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Ex6V4VzKUpp66V6dFCf-10" target="-Ex6V4VzKUpp66V6dFCf-12">
+        <mxCell id="-Ex6V4VzKUpp66V6dFCf-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-Ex6V4VzKUpp66V6dFCf-10" target="-Ex6V4VzKUpp66V6dFCf-12" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Ex6V4VzKUpp66V6dFCf-10" value="BIOS自检" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-Ex6V4VzKUpp66V6dFCf-10" value="BIOS自检" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Ex6V4VzKUpp66V6dFCf-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Ex6V4VzKUpp66V6dFCf-12" target="-Ex6V4VzKUpp66V6dFCf-14">
+        <mxCell id="-Ex6V4VzKUpp66V6dFCf-15" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-Ex6V4VzKUpp66V6dFCf-12" target="-Ex6V4VzKUpp66V6dFCf-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Ex6V4VzKUpp66V6dFCf-12" value="引导操作系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-Ex6V4VzKUpp66V6dFCf-12" value="引导操作系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Ex6V4VzKUpp66V6dFCf-14" value="进入系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-Ex6V4VzKUpp66V6dFCf-14" value="进入系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="900" y="460" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Ex6V4VzKUpp66V6dFCf-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Ex6V4VzKUpp66V6dFCf-16" target="-Ex6V4VzKUpp66V6dFCf-17">
+        <mxCell id="-Ex6V4VzKUpp66V6dFCf-18" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-Ex6V4VzKUpp66V6dFCf-16" target="-Ex6V4VzKUpp66V6dFCf-17" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Ex6V4VzKUpp66V6dFCf-16" value="开机" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-Ex6V4VzKUpp66V6dFCf-16" value="开机" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="100" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Ex6V4VzKUpp66V6dFCf-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Ex6V4VzKUpp66V6dFCf-17" target="-Ex6V4VzKUpp66V6dFCf-19">
+        <mxCell id="-Ex6V4VzKUpp66V6dFCf-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-Ex6V4VzKUpp66V6dFCf-17" target="-Ex6V4VzKUpp66V6dFCf-19" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Ex6V4VzKUpp66V6dFCf-17" value="UEFI初始化" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-Ex6V4VzKUpp66V6dFCf-17" value="UEFI初始化" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="300" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Ex6V4VzKUpp66V6dFCf-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Ex6V4VzKUpp66V6dFCf-19" target="-Ex6V4VzKUpp66V6dFCf-21">
+        <mxCell id="-Ex6V4VzKUpp66V6dFCf-22" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-Ex6V4VzKUpp66V6dFCf-19" target="-Ex6V4VzKUpp66V6dFCf-21" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Ex6V4VzKUpp66V6dFCf-19" value="引导操作系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-Ex6V4VzKUpp66V6dFCf-19" value="引导操作系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="500" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Ex6V4VzKUpp66V6dFCf-21" value="进入系统" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="-Ex6V4VzKUpp66V6dFCf-21" value="进入系统" style="rounded=1;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="700" y="560" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Ex6V4VzKUpp66V6dFCf-24" value="&lt;h1&gt;BIOS启动&lt;/h1&gt;&lt;i&gt;基本输入/输出系统启动。&lt;/i&gt;&lt;br&gt;&lt;br&gt;1.BIOS会&lt;b&gt;按照固定的顺序搜索连接到计算机的存储设备&lt;/b&gt;（如硬盘、光盘、USB设备等），以找到包含操作系统引导加载程序的有效启动设备。&lt;br&gt;2.一旦找到引导加载程序，BIOS会将控制权转移给它，然后引导加载程序将加载操作系统内核，最终启动计算机。" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-Ex6V4VzKUpp66V6dFCf-24" value="&lt;h1&gt;BIOS启动&lt;/h1&gt;&lt;i&gt;基本输入/输出系统启动。&lt;/i&gt;&lt;br&gt;&lt;br&gt;1.BIOS会&lt;b&gt;按照固定的顺序搜索连接到计算机的存储设备&lt;/b&gt;（如硬盘、光盘、USB设备等），以找到包含操作系统引导加载程序的有效启动设备。&lt;br&gt;2.一旦找到引导加载程序，BIOS会将控制权转移给它，然后引导加载程序将加载操作系统内核，最终启动计算机。" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-130" y="330" width="190" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="-Ex6V4VzKUpp66V6dFCf-25" value="&lt;h1&gt;UEFI启动&lt;/h1&gt;&lt;div&gt;&lt;i&gt;统一可扩展固件接口启动。&lt;/i&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;1.&lt;b&gt;提供了更为现代化和灵活的图形化界面。&lt;/b&gt;&lt;br&gt;2.&lt;b&gt;支持更大的硬盘容量和更快的启动速度。&lt;br&gt;3.UEFI提供了更多的安全功能，例如安全引导。&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-Ex6V4VzKUpp66V6dFCf-25" value="&lt;h1&gt;UEFI启动&lt;/h1&gt;&lt;div&gt;&lt;i&gt;统一可扩展固件接口启动。&lt;/i&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;/p&gt;1.&lt;b&gt;提供了更为现代化和灵活的图形化界面。&lt;/b&gt;&lt;br&gt;2.&lt;b&gt;支持更大的硬盘容量和更快的启动速度。&lt;br&gt;3.UEFI提供了更多的安全功能，例如安全引导。&lt;br&gt;&lt;/b&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-130" y="560" width="180" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="-Ex6V4VzKUpp66V6dFCf-29" value="&lt;h1&gt;分区表&lt;/h1&gt;&lt;p&gt;&lt;b&gt;1.GPT(GUID分区表): &lt;/b&gt;更为现代化和灵活的分区表格式。基于全局唯一标识符(GUID)进行分区标识。通常用于UEFI启动发计算机系统。&lt;/p&gt;&lt;p&gt;&lt;b&gt;2.MBR(主引导分区): &lt;/b&gt;传统的分区表格式。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+        <mxCell id="-Ex6V4VzKUpp66V6dFCf-29" value="&lt;h1&gt;分区表&lt;/h1&gt;&lt;p&gt;&lt;b&gt;1.GPT(GUID分区表): &lt;/b&gt;更为现代化和灵活的分区表格式。基于全局唯一标识符(GUID)进行分区标识。通常用于UEFI启动发计算机系统。&lt;/p&gt;&lt;p&gt;&lt;b&gt;2.MBR(主引导分区): &lt;/b&gt;传统的分区表格式。&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-135" y="790" width="195" height="150" as="geometry" />
         </mxCell>
-        <mxCell id="-Ex6V4VzKUpp66V6dFCf-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Ex6V4VzKUpp66V6dFCf-30" target="-Ex6V4VzKUpp66V6dFCf-31">
+        <mxCell id="-Ex6V4VzKUpp66V6dFCf-32" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-Ex6V4VzKUpp66V6dFCf-30" target="-Ex6V4VzKUpp66V6dFCf-31" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Ex6V4VzKUpp66V6dFCf-30" value="新建分区表并分区" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="-Ex6V4VzKUpp66V6dFCf-30" value="新建分区表并分区" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="120" y="827" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Ex6V4VzKUpp66V6dFCf-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Ex6V4VzKUpp66V6dFCf-31" target="-Ex6V4VzKUpp66V6dFCf-33">
+        <mxCell id="-Ex6V4VzKUpp66V6dFCf-34" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-Ex6V4VzKUpp66V6dFCf-31" target="-Ex6V4VzKUpp66V6dFCf-33" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Ex6V4VzKUpp66V6dFCf-31" value="修改分区类型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="-Ex6V4VzKUpp66V6dFCf-31" value="修改分区类型" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="320" y="827" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Ex6V4VzKUpp66V6dFCf-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Ex6V4VzKUpp66V6dFCf-33" target="-Ex6V4VzKUpp66V6dFCf-35">
+        <mxCell id="-Ex6V4VzKUpp66V6dFCf-36" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-Ex6V4VzKUpp66V6dFCf-33" target="-Ex6V4VzKUpp66V6dFCf-35" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Ex6V4VzKUpp66V6dFCf-33" value="写入磁盘" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="-Ex6V4VzKUpp66V6dFCf-33" value="写入磁盘" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="520" y="827" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Ex6V4VzKUpp66V6dFCf-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Ex6V4VzKUpp66V6dFCf-35" target="-Ex6V4VzKUpp66V6dFCf-37">
+        <mxCell id="-Ex6V4VzKUpp66V6dFCf-38" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-Ex6V4VzKUpp66V6dFCf-35" target="-Ex6V4VzKUpp66V6dFCf-37" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Ex6V4VzKUpp66V6dFCf-35" value="格式化分区" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="-Ex6V4VzKUpp66V6dFCf-35" value="格式化分区" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="720" y="827" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Ex6V4VzKUpp66V6dFCf-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="-Ex6V4VzKUpp66V6dFCf-37" target="-Ex6V4VzKUpp66V6dFCf-39">
+        <mxCell id="-Ex6V4VzKUpp66V6dFCf-40" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="-Ex6V4VzKUpp66V6dFCf-37" target="-Ex6V4VzKUpp66V6dFCf-39" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="-Ex6V4VzKUpp66V6dFCf-37" value="启用交换分区" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="-Ex6V4VzKUpp66V6dFCf-37" value="启用交换分区" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="920" y="827" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="-Ex6V4VzKUpp66V6dFCf-39" value="挂载分区" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+        <mxCell id="-Ex6V4VzKUpp66V6dFCf-39" value="挂载分区" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="1" vertex="1">
           <mxGeometry x="920" y="967" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
