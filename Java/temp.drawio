@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-17T13:06:03.453Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36" etag="SVqo_D63JJ74cOnQVgJg" version="23.1.5" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2024-02-23T13:37:46.252Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/121.0.0.0 Safari/537.36" etag="e3f4EmB5oJV51pLschDD" version="23.1.6" type="github" pages="3">
   <diagram name="第 1 页" id="JcHV4UioXyeyqWVosAlf">
-    <mxGraphModel dx="2293" dy="735" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="1">
+    <mxGraphModel dx="2233" dy="522" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#FFFFFF" math="0" shadow="1">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -103,19 +103,19 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="JdyV_jT9KwcHU5O-5mEy-13" value="" style="group" vertex="1" connectable="0" parent="1">
+        <mxCell id="JdyV_jT9KwcHU5O-5mEy-13" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="-552" y="364" width="1488" height="320" as="geometry" />
         </mxCell>
-        <mxCell id="JdyV_jT9KwcHU5O-5mEy-3" value="&lt;b&gt;运行&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;container=0;" vertex="1" parent="JdyV_jT9KwcHU5O-5mEy-13">
+        <mxCell id="JdyV_jT9KwcHU5O-5mEy-3" value="&lt;b&gt;运行&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;container=0;" parent="JdyV_jT9KwcHU5O-5mEy-13" vertex="1">
           <mxGeometry x="1368" y="30" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JdyV_jT9KwcHU5O-5mEy-8" value="&lt;b&gt;运行&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;container=0;" vertex="1" parent="JdyV_jT9KwcHU5O-5mEy-13">
+        <mxCell id="JdyV_jT9KwcHU5O-5mEy-8" value="&lt;b&gt;运行&lt;/b&gt;" style="whiteSpace=wrap;html=1;fillColor=#f8cecc;strokeColor=#b85450;rounded=0;container=0;" parent="JdyV_jT9KwcHU5O-5mEy-13" vertex="1">
           <mxGeometry x="610" y="196" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="JdyV_jT9KwcHU5O-5mEy-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JdyV_jT9KwcHU5O-5mEy-13" source="7w99cEqt98IXrleXAFDB-4" target="JdyV_jT9KwcHU5O-5mEy-8">
+        <mxCell id="JdyV_jT9KwcHU5O-5mEy-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="JdyV_jT9KwcHU5O-5mEy-13" source="7w99cEqt98IXrleXAFDB-4" target="JdyV_jT9KwcHU5O-5mEy-8" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JdyV_jT9KwcHU5O-5mEy-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="JdyV_jT9KwcHU5O-5mEy-13" source="6qFaOdgSsqMaid08nfDN-13" target="JdyV_jT9KwcHU5O-5mEy-3">
+        <mxCell id="JdyV_jT9KwcHU5O-5mEy-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="JdyV_jT9KwcHU5O-5mEy-13" source="6qFaOdgSsqMaid08nfDN-13" target="JdyV_jT9KwcHU5O-5mEy-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="7w99cEqt98IXrleXAFDB-1" value="&lt;h1&gt;编译型语言&lt;/h1&gt;&lt;p&gt;源代码在执行之前会被&lt;b&gt;编译器(Compiler)&lt;/b&gt;完整地编译成机器码或者中间代码。编译过程将整个源代码文件转换成目标代码文件（通常是二进制文件），然后执行目标代码。例如C/C++、Rust等。&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;container=0;" parent="JdyV_jT9KwcHU5O-5mEy-13" vertex="1">
@@ -173,11 +173,17 @@
         <mxCell id="7w99cEqt98IXrleXAFDB-6" value="&lt;b&gt;汇编&lt;br&gt;（Assembly）&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;container=0;" parent="JdyV_jT9KwcHU5O-5mEy-13" vertex="1">
           <mxGeometry x="792" y="30" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="r6IZSGKCvhaIYeYmbxvg-1" value="&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;font-size: 14px; background-color: initial;&quot;&gt;对于编译型语言, 源代码一经编译过程最终生成可执行文件后, 便可直接执行, 缺点是源代码每次更新时需要重新编译生成, 而编译过程通常比较耗时.&lt;/span&gt;&lt;/div&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;&lt;div style=&quot;text-align: left;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;对于解释型语言, 源代码每次运行都需要依赖解释器解释才能运行, 优点是相较于编译型语言,能够及时感知源代码的更新进行解释运行.&lt;/span&gt;&lt;/div&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-584" y="708" width="948" height="12" as="geometry" />
+        </mxCell>
+        <mxCell id="r6IZSGKCvhaIYeYmbxvg-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;因此,编译型语言适合生产应用程序,源代码更新周期短, 启动快.&lt;br&gt;而解析型语言则适合网页端开发, 更新十分频繁, 加载时间较长&lt;/font&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="-564" y="768" width="636" height="12" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
   <diagram id="wxB5nqAfp5eWNUhtXlEy" name="第 2 页">
-    <mxGraphModel dx="2293" dy="-92" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2233" dy="-305" grid="1" gridSize="12" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -233,7 +239,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="WgjsODm2Esy9vwLbGNW9" name="第 3 页">
-    <mxGraphModel dx="2293" dy="735" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="2233" dy="522" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
