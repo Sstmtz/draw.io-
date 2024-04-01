@@ -1,9 +1,58 @@
-<mxfile host="app.diagrams.net" modified="2024-04-01T12:12:52.255Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.2.1" etag="llsD5hpx6fK1clLF5ZSz" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-01T12:13:04.874Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="EePFqWqv0iB58C2RHUgw" version="24.2.1" type="github">
   <diagram name="第 1 页" id="B5knI2IrQH8BvQ7tbd_r">
-    <mxGraphModel>
+    <mxGraphModel dx="1169" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="Qn3ZDVJ4phGzACmicPPQ-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qn3ZDVJ4phGzACmicPPQ-2">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="350" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qn3ZDVJ4phGzACmicPPQ-2" value="源代码&lt;br&gt;(Source )" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="150" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qn3ZDVJ4phGzACmicPPQ-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qn3ZDVJ4phGzACmicPPQ-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="415" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qn3ZDVJ4phGzACmicPPQ-4" value="预处理&lt;br&gt;(Pre-Processing)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="350" y="310" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qn3ZDVJ4phGzACmicPPQ-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="Qn3ZDVJ4phGzACmicPPQ-7">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="590" y="480" as="targetPoint" />
+            <mxPoint x="480" y="480" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qn3ZDVJ4phGzACmicPPQ-6" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qn3ZDVJ4phGzACmicPPQ-7" target="Qn3ZDVJ4phGzACmicPPQ-9">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qn3ZDVJ4phGzACmicPPQ-7" value="编译器&lt;br&gt;(Compiler)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="530" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qn3ZDVJ4phGzACmicPPQ-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="Qn3ZDVJ4phGzACmicPPQ-9" target="Qn3ZDVJ4phGzACmicPPQ-10">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="Qn3ZDVJ4phGzACmicPPQ-9" value="链接器&lt;br&gt;(Linker)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+          <mxGeometry x="729" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qn3ZDVJ4phGzACmicPPQ-10" value="应用程序&lt;br&gt;(Application)" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="930" y="310" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qn3ZDVJ4phGzACmicPPQ-11" value="元对象编译器&lt;br&gt;（MOC）" style="ellipse;whiteSpace=wrap;html=1;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
+          <mxGeometry x="360" y="450" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="Qn3ZDVJ4phGzACmicPPQ-12" value="Qt对标准C++进行了扩展" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=24;" vertex="1" parent="1">
+          <mxGeometry x="455" y="190" width="270" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qn3ZDVJ4phGzACmicPPQ-13" value="MOC是一个预编译器，先将Qt的特性程序转换为标准C++程序，再由标准C++编译器进行编译。" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;labelBackgroundColor=#FFE599;" vertex="1" parent="1">
+          <mxGeometry x="283.5" y="545" width="273" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="Qn3ZDVJ4phGzACmicPPQ-14" value="Q_OBJECT宏" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;labelBackgroundColor=#FFFF33;fontColor=#000000;fontFamily=Verdana;" vertex="1" parent="1">
+          <mxGeometry x="330" y="400" width="70" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
