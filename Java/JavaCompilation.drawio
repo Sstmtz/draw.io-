@@ -1,9 +1,55 @@
-<mxfile host="app.diagrams.net" modified="2024-04-01T12:01:52.948Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" version="24.2.1" etag="rmhgn2axZLqUq9_FpYhv" type="github">
+<mxfile host="app.diagrams.net" modified="2024-04-01T12:02:01.173Z" agent="Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36" etag="7-Y25Z3-tgGPgfTyKEHn" version="24.2.1" type="github">
   <diagram name="第 1 页" id="UDeRGtq3U5ox7HXBpOFV">
-    <mxGraphModel>
+    <mxGraphModel dx="1169" dy="526" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ptTPzT1ZMYcfFljfb2KK-1" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ptTPzT1ZMYcfFljfb2KK-2" target="ptTPzT1ZMYcfFljfb2KK-11">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="60" y="400" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptTPzT1ZMYcfFljfb2KK-2" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;.java文件&lt;/font&gt;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ptTPzT1ZMYcfFljfb2KK-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="ptTPzT1ZMYcfFljfb2KK-4">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="670" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptTPzT1ZMYcfFljfb2KK-4" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;.class文件&lt;/font&gt;" style="whiteSpace=wrap;html=1;rounded=1;" vertex="1" parent="1">
+          <mxGeometry x="470" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ptTPzT1ZMYcfFljfb2KK-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="790" y="260" as="sourcePoint" />
+            <mxPoint x="870" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ptTPzT1ZMYcfFljfb2KK-6" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Compiler编译器&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="300" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ptTPzT1ZMYcfFljfb2KK-7" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;Interpreter&lt;br&gt;解释器&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="700" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ptTPzT1ZMYcfFljfb2KK-8" value="&lt;font style=&quot;font-size: 19px;&quot;&gt;Java编译原理&lt;/font&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="470" y="100" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="ptTPzT1ZMYcfFljfb2KK-9" value="Stuff&lt;br&gt;Happen" style="ellipse;shape=cloud;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
+          <mxGeometry x="860" y="220" width="120" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="ptTPzT1ZMYcfFljfb2KK-10" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Helvetica;fontSize=12;fontColor=default;" edge="1" parent="1" source="ptTPzT1ZMYcfFljfb2KK-11" target="ptTPzT1ZMYcfFljfb2KK-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="ptTPzT1ZMYcfFljfb2KK-11" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;javac&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="270" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ptTPzT1ZMYcfFljfb2KK-12" value="&lt;font style=&quot;font-size: 14px;&quot;&gt;java&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#d79b00;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=12;fontColor=default;fillColor=#ffe6cc;" vertex="1" parent="1">
+          <mxGeometry x="670" y="230" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="ptTPzT1ZMYcfFljfb2KK-13" value="Source&lt;div style=&quot;font-size: 14px;&quot;&gt;源文件&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=14;" vertex="1" parent="1">
+          <mxGeometry x="70" y="190" width="60" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
